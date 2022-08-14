@@ -1,8 +1,8 @@
 <?php
 
-require_once('../../Controller/WebappController.php');
-
 use Controller\WebappController;
+
+require_once('../../Controller/WebappController.php');
 
 $controller = new WebappController;
 
