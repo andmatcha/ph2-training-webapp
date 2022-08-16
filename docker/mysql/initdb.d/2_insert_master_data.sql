@@ -11,3 +11,10 @@ VALUES
     ('SQL'),
     ('SHELL'),
     ('情報システム基礎知識(その他)');
+
+INSERT INTO
+    contents(name)
+VALUES
+    ('ドットインストール'),
+    ('N予備校'),
+    ('POSSE課題');
